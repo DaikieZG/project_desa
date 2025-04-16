@@ -54,7 +54,7 @@ if ($_SESSION['level']!="petugas") {
             <li class="nav-item">
                 <a class="nav-link" href="petugas.php">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Dashboard</span></a>
+                    <span>Beranda</span></a>
             </li>
 
             <!-- Divider -->
@@ -62,7 +62,7 @@ if ($_SESSION['level']!="petugas") {
 
             <!-- Heading -->
             <div class="sidebar-heading">
-                Interface
+                Menu
             </div>
 
             <li class="nav-item">

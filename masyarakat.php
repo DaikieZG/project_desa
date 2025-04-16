@@ -54,7 +54,7 @@ if (empty($_SESSION['nik'])) {
             <li class="nav-item">
                 <a class="nav-link" href="masyarakat.php">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Dashboard</span></a>
+                    <span>Beranda</span></a>
             </li>
 
             <!-- Divider -->
@@ -62,7 +62,7 @@ if (empty($_SESSION['nik'])) {
 
             <!-- Heading -->
             <div class="sidebar-heading">
-                Interface
+                Menu
             </div>
 
             <!-- Nav Item - Tulis Laporan -->
